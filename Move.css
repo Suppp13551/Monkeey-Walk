@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#Heading{
+    font-size: 50px;
+    font-variant: small-caps;
+    font-family: cursive;
+}
+#Image{
+    border-radius: 70px;
+    border-style: solid;
+    border-color: aquamarine;
+}
+#Next{
+    border-radius: 70px;
+    background-color: greenyellow;
+    width: 70px;
+    height: 70px;
+}
